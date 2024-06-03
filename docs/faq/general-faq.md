@@ -24,7 +24,7 @@ Yes. Rancher supports [Istio](../integrations-in-rancher/istio/istio.md).
 
 ## Will Rancher v2.x support Hashicorp's Vault for storing secrets?
 
-Secrets management is on our roadmap but we haven't assigned it to a specific release yet.
+Secrets management is on our roadmap but we haven't assigned it to a specific release yet. However, Hashicorp's Vault is SUSE "Ready" Verified to work on Rancher. Documentation for this can be found in [SUSE's Partner Certification & Solutions Catalog](https://www.suse.com/pcsc/viewVersionPage?versionID=23747) or in [Rancher's partner charts](https://github.com/rancher/partner-charts/tree/main-source/charts/hashicorp).
 
 ## Does Rancher v2.x support RKT containers as well?
 
